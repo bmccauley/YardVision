@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-304160a4a8e1938dd0dc97c77b2713288a033166.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-9f4fdda6d4ac29deda99b54d15f1d444debf7be6.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-615c7c6a60f6a3b08c62825b91ade1ed5e57e4d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\activation-a6514a292f6737dc22e446f196521734d0e760cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-51d08c5809add3acdcac38ba020617b99112ee94.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-6e15ca6d7c4aeb84182b934272d0414581fe2a14.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-e84ef0ec8b0e6c61bfc253d42647b90f634fe927.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-4d47b0b9cea51e52171e22bb8ea56bef8667eed7.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-687a60f7e5d441b43d1ae7ba738bae4bce9de9f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-4fc7889b37e9e1f5062ab87663df3b56d234f5cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-f478be5cbddb925f8a744c1f38ad4625cd4a4731.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-92984fac2f0d78320bf54f307349473df26e2fda.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-00093213c3550b43fd9a6130187ee796ed2deb18.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-0a1889c62354692f3cb02c98a99b8de535106ac0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-7c615452fbba50f1a48d3a261571c60c1f6a5668.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-3f4cfedb5a33a500d6f9dc30c0485daadc144bfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-e39a912fa939f673ffca089482ecb21559e28590.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\additionnal-57d88e54e5303899738ffdc3e3f2492fe2d87be0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\mail-2841f738703286d9f8cb4442a9c4528022fe8707.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-4c77b6d5c1525b77ff81d014edff053696264b02.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-550f2a1b1de5d6a1b9671c469f12c23248add2d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-24e6757006aeb47c5147a0585e860fa7eb9986a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-454f8ee4b55d352cf876f9bc4dc9fd8d009daa8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-cd0f79f7bd8d650d9ec2901c651884661c7e2886.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-b541fd07937901f4aa7616a1389168030f8bf115.jar" />
+    </item>
+    <item
+        jar="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\bmccauley.PCI\AndroidStudioProjects\YardVision\app\build\intermediates\pre-dexed\debug\classes-0073713e1ff39f4627fedb116a14375c0450e373.jar" />
+    </item>
+
+</items>
